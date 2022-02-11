@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/asus/X00TD" name="Vivekachooz/android_device_asus_X00TD.git" remote="github" revision="aex" />
+ <project path="device/asus/android_device_asus_sdm660-common" name="Vivekachooz/android_device_asus_sdm660-common.git" remote="github" revision="aex12" />
+ <project path="vendor/asus/X00TD" name="Vivekachooz/proprietary_vendor_asus.git" remote="github" revision="aex12" />
+ <project path="kernel/asus/X00TD" name="Vivekachooz/android_kernel_asus_sdm660.git" remote="github" revision="lineage-19.0" />
+ 
+</manifest>
